@@ -21,24 +21,24 @@
 
 
 </ul>
-<li>Create a bubble chart that displays each sample.<li></ol>
+<li>Create a bubble chart that displays each sample.<li>
 </ol>
 
 
 <ul>
-Use otu_ids for the x values.
+<li>Use otu_ids for the x values.</li>
 
 
-Use sample_values for the y values.
+<li>Use sample_values for the y values.</li>
 
 
-Use sample_values for the marker size.
+<li>Use sample_values for the marker size.</li>
 
 
-Use otu_ids for the marker colors.
+<li>Use otu_ids for the marker colors.</li>
 
 
-Use otu_labels for the text values.
+<li>Use otu_labels for the text values.</li>
 
 
 </ul>
