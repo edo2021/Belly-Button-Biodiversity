@@ -10,17 +10,18 @@
 
 
 
-
-Use sample_values as the values for the bar chart.
-
-
-Use otu_ids as the labels for the bar chart.
-
-
-Use otu_labels as the hovertext for the chart.
-
-
-
-
-
 </ol>
+<ul>
+  <li>Use sample_values as the values for the bar chart.</li>
+
+
+<li>Use otu_ids as the labels for the bar chart.</li>
+
+
+<li>Use otu_labels as the hovertext for the chart.</li>
+
+
+</ul>
+
+
+
