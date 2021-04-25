@@ -21,11 +21,7 @@
 
 
 </ul>
-<li>Create a bubble chart that displays each sample.<li>
-</ol>
-
-
-<ul>
+<li>Create a bubble chart that displays each sample.<li></ol><ul>
 <li>Use otu_ids for the x values.</li>
 
 
