@@ -1,5 +1,5 @@
 <h1>Edris Gemtessa</h1>
-<h2>program used</h2>
+<h2>Language used</h2>
 <ul>
 <li>HTML<li>
   <li>javascript<li>
