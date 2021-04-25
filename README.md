@@ -1,10 +1,10 @@
 <h1>Edris Gemtessa</h1>
 <h2>program used</h2>
-<ol>
+<ul>
 <li>HTML<li>
   <li>javascript<li>
 <li>JSON<li>
-  </ol>
+  <ul>
 
 <h1>Plot.ly  - Belly Button Biodiversity
 </h1>
