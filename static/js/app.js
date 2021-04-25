@@ -23,3 +23,17 @@ function DrawBargraph(sampleId) {
             type: "bar",
             text: otu_labels.slice(0,10).reverse(),
             orientation: "h"
+        }
+
+        var barArray = [barData];
+
+        var barLayout = {
+            title: "Top 10 bacteria culutres found",
+            margin: {t:30, l:150}
+
+        };
+
+        Plotly.newPlot("bar", barArray, barLayout);
+
+    });
+}
