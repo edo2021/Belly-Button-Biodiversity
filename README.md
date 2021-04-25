@@ -1,3 +1,9 @@
+<h1>Edris Gemtessa</h1>
+<h2>program used</h2>
+<li>HTML<li>
+  <li>javascript<li>
+<li>JSON<li>
+
 <h1>Plot.ly  - Belly Button Biodiversity
 </h1>
 <h1>Step 1: Plotly</h1>
