@@ -36,10 +36,8 @@
 
 <li>Use otu_labels for the text values.</li>
 
-
-
 </ul>
-<ol>
+
   <li>Display the sample metadata, i.e., an individual's demographic information.
 
 
