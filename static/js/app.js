@@ -170,4 +170,17 @@ function initDashboard() {
 
         var id = sampleNames[0];
 
-        
+        // draw graphs 
+        DrawBargraph(id);
+        DrawBubblechart(id);
+        ShowMetadata(id);
+        washData(id);
+
+
+    });
+
+    
+};
+//call the function
+
+initDashboard();
