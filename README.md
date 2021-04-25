@@ -10,7 +10,6 @@
 
 
 
-</ol>
 <ul>
   <li>Use sample_values as the values for the bar chart.</li>
 
@@ -22,7 +21,8 @@
 
 
 </ul>
-<ol><li>Create a bubble chart that displays each sample.<li></ol>
+<li>Create a bubble chart that displays each sample.<li></ol>
+</ol>
 
 
 <ul>
