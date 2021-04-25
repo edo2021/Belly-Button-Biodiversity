@@ -37,7 +37,14 @@
 <li>Use otu_labels for the text values.</li>
 
 
-</ul>
 
+</ul>
+<ol>
+  <li>Display the sample metadata, i.e., an individual's demographic information.
+
+
+Display each key-value pair from the metadata JSON object somewhere on the page.</li>
+<li>Update all of the plots any time that a new sample is selected.</>
+</ol>
 
 
