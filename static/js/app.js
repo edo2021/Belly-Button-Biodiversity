@@ -139,3 +139,20 @@ function washData(sampleId) {
 
     });
 };
+
+function optionChanged(newSampleId) {
+    console.log(`User Selected ${newSampleId}`);
+
+    DrawBargraph(newSampleId);
+    DrawBubblechart(newSampleId);
+    ShowMetadata(newSampleId);
+    washData(newSampleId);
+}
+
+function initDashboard() {
+    console.log("initDashboard()");
+
+    // dropdown
+    var selector = d3.select("#selDataset");
+
+    
